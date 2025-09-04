@@ -1,30 +1,30 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1-1}{\ignorespaces تفاوت داده‌های تولیدی توسط حسگر شتاب‌سنج قرار گرفته در نقاط مختلف بدن}}{4}{figure.caption.5}%
+\contentsline {figure}{\numberline {1-1}{\ignorespaces تفاوت داده‌های تولیدی توسط حسگر شتاب‌سنج قرار گرفته در نقاط مختلف بدن}}{5}{figure.caption.5}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces ساختار خودرمزگذار عمیق بیش‌کامل}}{13}{figure.caption.6}%
-\contentsline {figure}{\numberline {2-2}{\ignorespaces معماری سیستم تشخیص فعالیت، ناهنجاری و پیش‌بینی فعالیت بعدی}}{14}{figure.caption.7}%
-\contentsline {figure}{\numberline {2-3}{\ignorespaces معماری سیستم توجه دوگانه بر روی داده‌های حسگر}}{15}{figure.caption.8}%
-\contentsline {figure}{\numberline {2-4}{\ignorespaces ساختار کلی سیستم‌های یادگیری خودنظارتی}}{17}{figure.caption.9}%
+\contentsline {figure}{\numberline {2-1}{\ignorespaces ساختار خودرمزگذار عمیق بیش‌کامل}}{14}{figure.caption.6}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces معماری سیستم تشخیص فعالیت، ناهنجاری و پیش‌بینی فعالیت بعدی}}{15}{figure.caption.7}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces معماری سیستم توجه دوگانه بر روی داده‌های حسگر}}{16}{figure.caption.8}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces ساختار کلی سیستم‌های یادگیری خودنظارتی}}{18}{figure.caption.9}%
 \contentsline {figure}{\numberline {2-5}{\ignorespaces ساختار کلی سیستم‌های یادگیری خودنظارتی}}{19}{figure.caption.10}%
 \contentsline {figure}{\numberline {2-6}{\ignorespaces ساختار کلی شبکه‌ی پیش‌بینی چرخش}}{23}{figure.caption.11}%
 \contentsline {figure}{\numberline {2-7}{\ignorespaces ساختار کلی شبکه‌ی حل پازل}}{25}{figure.caption.13}%
 \contentsline {figure}{\numberline {2-8}{\ignorespaces ساختار کلی شبکه‌ی بررسی درستی ترتیب فریم‌های ویدیویی}}{26}{figure.caption.14}%
-\contentsline {figure}{\numberline {2-9}{\ignorespaces عملکرد رمزگذار زمینه‌ای برای ترمیم تصاویر}}{28}{figure.caption.15}%
-\contentsline {figure}{\numberline {2-10}{\ignorespaces معماری رمزگذار زمینه‌ای}}{29}{figure.caption.16}%
+\contentsline {figure}{\numberline {2-9}{\ignorespaces عملکرد رمزگذار زمینه‌ای برای ترمیم تصاویر}}{29}{figure.caption.15}%
+\contentsline {figure}{\numberline {2-10}{\ignorespaces معماری رمزگذار زمینه‌ای}}{30}{figure.caption.16}%
 \contentsline {figure}{\numberline {2-11}{\ignorespaces نمونه‌ای از فرآیند یادگیری تباینی}}{32}{figure.caption.17}%
 \contentsline {figure}{\numberline {2-12}{\ignorespaces ساختار کلی روش \lr {CPC}}}{33}{figure.caption.18}%
 \contentsline {figure}{\numberline {2-13}{\ignorespaces ساختار کلی روش \lr {MoCo}}}{36}{figure.caption.19}%
 \contentsline {figure}{\numberline {2-14}{\ignorespaces روش‌های ایجاد داده‌ی افزوده}}{38}{figure.caption.20}%
-\contentsline {figure}{\numberline {2-15}{\ignorespaces دقت روش \lr {SimCLR}}}{39}{figure.caption.21}%
+\contentsline {figure}{\numberline {2-15}{\ignorespaces دقت روش \lr {SimCLR}}}{40}{figure.caption.21}%
 \contentsline {figure}{\numberline {2-16}{\ignorespaces انتخاب حسگرهای مثبت و منفی در \lr {ColloSSL}}}{47}{figure.caption.25}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces نمونه اسکالوگرام برای یک موج متغیر در زمان}}{51}{figure.caption.26}%
-\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری کلی پیش‌آموزش در روش پیشنهادی}}{52}{figure.caption.27}%
-\contentsline {figure}{\numberline {3-3}{\ignorespaces مقایسه‌ی الگوریتم \lr {SwAV} (سمت راست) و \lr {SimCLR} (سمت چپ)}}{56}{figure.caption.28}%
-\contentsline {figure}{\numberline {3-4}{\ignorespaces تاثیر ترتیب اعمال جایگشت و تبدیل موجک بر اسکالوگرام حاصل}}{64}{figure.caption.29}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces نمونه اسکالوگرام برای یک موج متغیر در زمان}}{53}{figure.caption.26}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری کلی پیش‌آموزش در روش پیشنهادی}}{54}{figure.caption.27}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces مقایسه‌ی الگوریتم \lr {SwAV} (سمت راست) و \lr {SimCLR} (سمت چپ)}}{57}{figure.caption.28}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces تاثیر ترتیب اعمال جایگشت و تبدیل موجک بر اسکالوگرام حاصل}}{65}{figure.caption.29}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces دسته‌های مختلف مجموعه داده \lr {HAPT}}}{67}{figure.caption.30}%
-\contentsline {figure}{\numberline {4-2}{\ignorespaces تاثیر تبدیل موجک بر برد اسکالوگرام خروجی}}{70}{figure.caption.31}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces دسته‌های مختلف مجموعه داده \lr {HAPT}}}{69}{figure.caption.30}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces تاثیر تبدیل موجک بر برد اسکالوگرام خروجی}}{71}{figure.caption.31}%
 \contentsfinish 
 \contentsfinish 

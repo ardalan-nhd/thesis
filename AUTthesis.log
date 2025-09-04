@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  1 SEP 2025 19:10
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  4 SEP 2025 17:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/yektanet/Desktop/پایان‌نامه/AUTthesis
-(/home/yektanet/Desktop/پایان‌نامه/AUTthesis.tex
+**/home/yektanet/Desktop/thesis-latex/AUTthesis
+(/home/yektanet/Desktop/thesis-latex/AUTthesis.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./AUTthesis.cls
@@ -376,30 +376,49 @@ LaTeX Info: Redefining \labelcpageref on input line 2370.
 Package cleveref Info: `amsthm' support loaded on input line 3026.
 Package cleveref Info: include cross-reference names in hyperlinks on input line 7836.
 Package cleveref Info: include cross-reference names in hyperlinks on input line 7852.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen182
+\lightrulewidth=\dimen183
+\cmidrulewidth=\dimen184
+\belowrulesep=\dimen185
+\belowbottomsep=\dimen186
+\aboverulesep=\dimen187
+\abovetopsep=\dimen188
+\cmidrulesep=\dimen189
+\cmidrulekern=\dimen190
+\defaultaddspace=\dimen191
+\@cmidla=\count304
+\@cmidlb=\count305
+\@aboverulesep=\dimen192
+\@belowrulesep=\dimen193
+\@thisruleclass=\count306
+\@lastruleclass=\count307
+\@thisrulewidth=\dimen194
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen182
-\captionmargin=\dimen183
-\caption@leftmargin=\dimen184
-\caption@rightmargin=\dimen185
-\caption@width=\dimen186
-\caption@indent=\dimen187
-\caption@parindent=\dimen188
-\caption@hangindent=\dimen189
+\caption@tempdima=\dimen195
+\captionmargin=\dimen196
+\caption@leftmargin=\dimen197
+\caption@rightmargin=\dimen198
+\caption@width=\dimen199
+\caption@indent=\dimen256
+\caption@parindent=\dimen257
+\caption@hangindent=\dimen258
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count304
-\c@continuedfloat=\count305
+\c@caption@flags=\count308
+\c@continuedfloat=\count309
 Package caption Info: hyperref package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count306
+\c@subfigure=\count310
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count307
+\c@subtable=\count311
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip95
@@ -428,24 +447,24 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count308
+\c@tracingmulticols=\count312
 \mult@box=\box58
-\multicol@leftmargin=\dimen190
-\c@unbalance=\count309
-\c@collectmore=\count310
-\doublecol@number=\count311
-\multicoltolerance=\count312
-\multicolpretolerance=\count313
-\full@width=\dimen191
-\page@free=\dimen192
-\premulticols=\dimen193
-\postmulticols=\dimen194
+\multicol@leftmargin=\dimen259
+\c@unbalance=\count313
+\c@collectmore=\count314
+\doublecol@number=\count315
+\multicoltolerance=\count316
+\multicolpretolerance=\count317
+\full@width=\dimen260
+\page@free=\dimen261
+\premulticols=\dimen262
+\postmulticols=\dimen263
 \multicolsep=\skip109
 \multicolbaselineskip=\skip110
 \partial@page=\box59
 \last@line=\box60
 \mc@boxedresult=\box61
-\maxbalancingoverflow=\dimen195
+\maxbalancingoverflow=\dimen264
 \mult@rightbox=\box62
 \mult@grightbox=\box63
 \mult@firstbox=\box64
@@ -486,15 +505,15 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box99
 \@tempa=\box100
 \@tempa=\box101
-\c@minrows=\count314
-\c@columnbadness=\count315
-\c@finalcolumnbadness=\count316
-\last@try=\dimen196
-\multicolovershoot=\dimen197
-\multicolundershoot=\dimen198
+\c@minrows=\count318
+\c@columnbadness=\count319
+\c@finalcolumnbadness=\count320
+\last@try=\dimen265
+\multicolovershoot=\dimen266
+\multicolundershoot=\dimen267
 \mult@nat@firstbox=\box102
 \colbreak@box=\box103
-\mc@col@check@num=\count317
+\mc@col@check@num=\count321
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks35
@@ -549,71 +568,71 @@ Package: xepersian 2025/02/02 v25.2.2 (Release Persian Gate) Persian typesetting
 Package: expl3 2025-01-18 L3 programming layer (loader) 
  (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
-\g__graphics_track_int=\count318
+\g__graphics_track_int=\count322
 \l__pdf_internal_box=\box104
-\g__pdf_backend_annotation_int=\count319
-\g__pdf_backend_link_int=\count320
+\g__pdf_backend_annotation_int=\count323
+\g__pdf_backend_link_int=\count324
 ))
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
  (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count321
-\l__fontspec_language_int=\count322
-\l__fontspec_strnum_int=\count323
-\l__fontspec_tmp_int=\count324
-\l__fontspec_tmpa_int=\count325
-\l__fontspec_tmpb_int=\count326
-\l__fontspec_tmpc_int=\count327
-\l__fontspec_em_int=\count328
-\l__fontspec_emdef_int=\count329
-\l__fontspec_strong_int=\count330
-\l__fontspec_strongdef_int=\count331
-\l__fontspec_tmpa_dim=\dimen199
-\l__fontspec_tmpb_dim=\dimen256
-\l__fontspec_tmpc_dim=\dimen257
+\l__fontspec_script_int=\count325
+\l__fontspec_language_int=\count326
+\l__fontspec_strnum_int=\count327
+\l__fontspec_tmp_int=\count328
+\l__fontspec_tmpa_int=\count329
+\l__fontspec_tmpb_int=\count330
+\l__fontspec_tmpc_int=\count331
+\l__fontspec_em_int=\count332
+\l__fontspec_emdef_int=\count333
+\l__fontspec_strong_int=\count334
+\l__fontspec_strongdef_int=\count335
+\l__fontspec_tmpa_dim=\dimen268
+\l__fontspec_tmpb_dim=\dimen269
+\l__fontspec_tmpc_dim=\dimen270
  (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2025/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2025/01/01 v0.3 provides Persian calendar
-\XePersian@i=\count332
-\XePersian@y=\count333
-\XePersian@m=\count334
-\XePersian@d=\count335
-\XePersian@latini=\count336
-\XePersian@persiani=\count337
-\XePersian@latinii=\count338
-\XePersian@persianii=\count339
-\XePersian@latiniii=\count340
-\XePersian@persianiii=\count341
-\XePersian@latiniv=\count342
-\XePersian@persianiv=\count343
-\XePersian@latinv=\count344
-\XePersian@persianv=\count345
-\XePersian@latinvi=\count346
-\XePersian@persianvi=\count347
-\XePersian@latinvii=\count348
-\XePersian@persianvii=\count349
-\XePersian@latinviii=\count350
-\XePersian@persianviii=\count351
-\XePersian@latinix=\count352
-\XePersian@persianix=\count353
-\XePersian@latinx=\count354
-\XePersian@persianx=\count355
-\XePersian@latinxi=\count356
-\XePersian@persianxi=\count357
-\XePersian@latinxii=\count358
-\XePersian@persianxii=\count359
-\XePersian@persianxiii=\count360
-\XePersian@temp=\count361
-\XePersian@temptwo=\count362
-\XePersian@tempthree=\count363
-\XePersian@yModHundred=\count364
-\XePersian@thirtytwo=\count365
-\XePersian@dn=\count366
-\XePersian@sn=\count367
-\XePersian@mminusone=\count368
+\XePersian@i=\count336
+\XePersian@y=\count337
+\XePersian@m=\count338
+\XePersian@d=\count339
+\XePersian@latini=\count340
+\XePersian@persiani=\count341
+\XePersian@latinii=\count342
+\XePersian@persianii=\count343
+\XePersian@latiniii=\count344
+\XePersian@persianiii=\count345
+\XePersian@latiniv=\count346
+\XePersian@persianiv=\count347
+\XePersian@latinv=\count348
+\XePersian@persianv=\count349
+\XePersian@latinvi=\count350
+\XePersian@persianvi=\count351
+\XePersian@latinvii=\count352
+\XePersian@persianvii=\count353
+\XePersian@latinviii=\count354
+\XePersian@persianviii=\count355
+\XePersian@latinix=\count356
+\XePersian@persianix=\count357
+\XePersian@latinx=\count358
+\XePersian@persianx=\count359
+\XePersian@latinxi=\count360
+\XePersian@persianxi=\count361
+\XePersian@latinxii=\count362
+\XePersian@persianxii=\count363
+\XePersian@persianxiii=\count364
+\XePersian@temp=\count365
+\XePersian@temptwo=\count366
+\XePersian@tempthree=\count367
+\XePersian@yModHundred=\count368
+\XePersian@thirtytwo=\count369
+\XePersian@dn=\count370
+\XePersian@sn=\count371
+\XePersian@mminusone=\count372
 ) (/usr/local/texlive/2025/texmf-dist/tex/xelatex/xepersian/unicode-persianmath.sty
 Package: unicode-persianmath 2025/02/02 v1.2.3 Unicode Persian math
 ) (/usr/local/texlive/2025/texmf-dist/tex/xelatex/bidi/bidi.sty
@@ -650,17 +669,17 @@ Package: bidi 2025/02/02 v25.2.2 (Release Maryam Mirzakhani) Bidirectional types
 Package: biditools 2025/02/02 v2.7 Programming tools for bidi package
 \@bidi@envbody=\toks37
 \@bidi@emptytoks=\toks38
-\bidi@poscount=\count369
-\bidi@tempcountb=\count370
+\bidi@poscount=\count373
+\bidi@tempcountb=\count374
 \bidi@temptoksa=\toks39
 \bidi@temptoksb=\toks40
-\bidi@dummies=\count371
+\bidi@dummies=\count375
 \bidi@are@these@correct=\toks41
 \bidi@toks@lista=\toks42
 \bidi@toks@listb=\toks43
-\bidi@stack@length=\count372
+\bidi@stack@length=\count376
 \bidi@empty@stack=\toks44
-\bidi@looprepeat@depth=\count373
+\bidi@looprepeat@depth=\count377
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/zref/zref-base.sty
@@ -674,12 +693,12 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count374
+\c@abspage=\count378
 Package zref Info: New property: abspage on input line 67.
 )
 \@bidi@copyins@=\insert252
-\bidi@typesethour=\count375
-\bidi@typesetminute=\count376
+\bidi@typesethour=\count379
+\bidi@typesetminute=\count380
  (/usr/local/texlive/2025/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2025/01/03 v1.5.2 bidi adaptations for `latex.ltx' for XeTeX engine
 \bidi@n@everypar=\toks45
@@ -687,10 +706,10 @@ LaTeX Info: Redefining \centerline on input line 316.
 LaTeX Info: Redefining \leftline on input line 325.
 LaTeX Info: Redefining \rightline on input line 326.
 LaTeX Info: Redefining \underline on input line 334.
-\bidi@column@check@number=\count377
+\bidi@column@check@number=\count381
  (/usr/local/texlive/2025/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2024/12/14 v1.3 bidi footnote macros for XeTeX engine
-\c@footdir@label=\count378
+\c@footdir@label=\count382
 \footdir@toks=\toks46
 ) (/usr/local/texlive/2025/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def
 File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath package for XeTeX engine
@@ -737,13 +756,13 @@ File: tocloft-xetex-bidi.def 2025/01/03 v0.4 bidi adaptations for tocloft packag
 ) (/usr/local/texlive/2025/texmf-dist/tex/xelatex/bidi/tc-xetex-xetex-bidi.def
 File: tc-xetex-xetex-bidi.def 2014/07/08 v0.1 bidi adaptations for Clipping driver for XeTeX engine
 ))
-\bidi@digits=\count379
+\bidi@digits=\count383
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
-\xepersian@tcl=\count380
-\xepersian@ilg=\dimen258
-\xepersian@strutilg=\dimen259
+\xepersian@tcl=\count384
+\xepersian@ilg=\dimen271
+\xepersian@strutilg=\dimen272
  (/usr/local/texlive/2025/texmf-dist/tex/xelatex/xepersian/footnote-xetex-bidi-xetex-xepersian.def
 File: footnote-xetex-bidi-xetex-xepersian.def 2017/08/09 v0.6 xepersian adaptations for footnotes for XeTeX engine
 ) (/usr/local/texlive/2025/texmf-dist/tex/xelatex/xepersian/book-xetex-xepersian.def
@@ -822,7 +841,7 @@ Package fontspec Info:
 (fontspec)             Bold.ttf]/OT:language=dflt;script=arab;mapping=persian-tex-text;"
 
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 79.
+(Font)              scaled to size 14.39996pt on input line 81.
 
 Package fontspec Info: 
 (fontspec)             Font family 'times(0)' created for font 'times' with
@@ -840,7 +859,7 @@ Package fontspec Info:
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
 (fontspec)             <->"[Fonts/timesbd]/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-LaTeX Info: Redefining \latinfont on input line 80.
+LaTeX Info: Redefining \latinfont on input line 82.
 
 Package fontspec Info: 
 (fontspec)             Yas scale = 1.1.
@@ -894,7 +913,7 @@ Package fontspec Info:
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.1]"[Fonts/Yas
 (fontspec)             Bd.ttf]/OT:script=latn;language=dflt;"
 
-Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'Yas.ttf' on input line 87.
+Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'Yas.ttf' on input line 89.
 \sympersianoperators=\mathgroup6
 \sympersianoperatorsbf=\mathgroup7
 \sympersianoperatorsit=\mathgroup8
@@ -946,12 +965,12 @@ Package fontspec Info:
 (fontspec)             Nazanin
 (fontspec)             Bold.ttf]/OT:language=dflt;script=arab;mapping=persian-tex-text;"
 
-\c@definition=\count381
+\c@definition=\count385
 
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 133.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 135.
 
-\c@savepage=\count382
+\c@savepage=\count386
 ) (/usr/local/texlive/2025/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2025/02/02 v1.2 bidi adaptations for standard book class for XeTeX engine
 )
@@ -1214,40 +1233,52 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 1.
 LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/b/n' will be
 (Font)              scaled to size 27.36815pt on input line 1.
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/n' will be
-(Font)              scaled to size 5.50003pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/bx/n' in size <10> not available
-(Font)              Font shape `TU/Yas.ttf(1)/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/b/n' will be
-(Font)              scaled to size 11.00006pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/bx/n' in size <7> not available
-(Font)              Font shape `TU/Yas.ttf(1)/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/b/n' will be
-(Font)              scaled to size 7.70004pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/bx/n' in size <5> not available
-(Font)              Font shape `TU/Yas.ttf(1)/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/b/n' will be
-(Font)              scaled to size 5.50003pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
-(Font)              scaled to size 11.00006pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
-(Font)              scaled to size 7.70004pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
-(Font)              scaled to size 5.50003pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 10.
 
 
 [1
 
 
 
+
+]
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/n' will be
+(Font)              scaled to size 5.50003pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/bx/n' in size <10> not available
+(Font)              Font shape `TU/Yas.ttf(1)/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/b/n' will be
+(Font)              scaled to size 11.00006pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/bx/n' in size <7> not available
+(Font)              Font shape `TU/Yas.ttf(1)/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/b/n' will be
+(Font)              scaled to size 7.70004pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/bx/n' in size <5> not available
+(Font)              Font shape `TU/Yas.ttf(1)/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/b/n' will be
+(Font)              scaled to size 5.50003pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
+(Font)              scaled to size 11.00006pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
+(Font)              scaled to size 7.70004pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
+(Font)              scaled to size 5.50003pt on input line 10.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
+(Font)              scaled to size 13.20007pt on input line 11.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2
 
 ]
 
@@ -1258,19 +1289,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2]
+[3]
 File: Images/Chapter1/accelerometer-placement.png Graphic file (type bmp)
 <Images/Chapter1/accelerometer-placement.png>
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1290,8 +1312,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5]
 LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/b/n' will be
-(Font)              scaled to size 19.0081pt on input line 90.
-)
+(Font)              scaled to size 19.0081pt on input line 91.
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1300,7 +1322,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6]
+[6])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1323,8 +1345,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Missing character: There is no ‪ (U+202A) in font [Fonts/B Nazanin.ttf]/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 22.
 
 
 
@@ -1334,7 +1354,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]
+[9
+
+]
+LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/b/n' will be
+(Font)              scaled to size 15.84007pt on input line 23.
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1376,7 +1401,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13]
-Overfull \hbox (2.93909pt too wide) in paragraph at lines 131--133
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+Overfull \hbox (2.93909pt too wide) in paragraph at lines 132--134
 [][]\TU/BNazanin.ttf(0)/b/n/12 ورودی داده‌های سنسورها: \TU/BNazanin.ttf(0)/m/n/12 سیگنال‌های چند-کاناله‌ی حسگرها (مانند شتاب‌سنج و ژیروسکوپ)[]
  []
 
@@ -1389,19 +1423,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
+[15]
 File: Images/Chapter2/danhar.png Graphic file (type bmp)
 <Images/Chapter2/danhar.png>
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[15]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1414,7 +1439,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: Images/Chapter2/selfsupervised-overview.png Graphic file (type bmp)
 <Images/Chapter2/selfsupervised-overview.png>
 
-Overfull \hbox (8.05316pt too wide) in paragraph at lines 196--198
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+Overfull \hbox (8.05316pt too wide) in paragraph at lines 197--199
 [][]\TU/BNazanin.ttf(0)/b/n/12 وظیفه پوششی: \TU/BNazanin.ttf(0)/m/n/12 وظیفه پوششی در واقع وظیفه‌ای است که برای اجرای فاز پیش‌آموزش خودنظارتی[]
  []
 
@@ -1427,7 +1461,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
+[18]
 File: Images/Chapter2/self-vs-unsupervised.png Graphic file (type bmp)
 <Images/Chapter2/self-vs-unsupervised.png>
 
@@ -1439,19 +1473,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18]
-Missing character: There is no θ ("3B8) in font cmmi8!
-Missing character: There is no θ ("3B8) in font cmmi8!
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [19]
+Missing character: There is no θ ("3B8) in font cmmi8!
+Missing character: There is no θ ("3B8) in font cmmi8!
 Missing character: There is no θ ("3B8) in font cmmi8!
 
 
@@ -1463,11 +1487,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
-[][]
- []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1477,12 +1496,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [21]
-File: Images/Chapter2/rotnet.png Graphic file (type bmp)
-<Images/Chapter2/rotnet.png>
-File: Images/Chapter2/rotnet-results.png Graphic file (type bmp)
-<Images/Chapter2/rotnet-results.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--296
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
 [][]
  []
 
@@ -1496,19 +1510,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
+File: Images/Chapter2/rotnet.png Graphic file (type bmp)
+<Images/Chapter2/rotnet.png>
+File: Images/Chapter2/rotnet-results.png Graphic file (type bmp)
+<Images/Chapter2/rotnet-results.png>
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[23]
-File: Images/Chapter2/jigsaw.png Graphic file (type bmp)
-<Images/Chapter2/jigsaw.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 294--297
 [][]
  []
 
@@ -1521,9 +1528,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[23]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [24]
-File: Images/Chapter2/video-permutation.png Graphic file (type bmp)
-<Images/Chapter2/video-permutation.png>
+File: Images/Chapter2/jigsaw.png Graphic file (type bmp)
+<Images/Chapter2/jigsaw.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+[][]
+ []
+
 
 
 
@@ -1534,15 +1555,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
+File: Images/Chapter2/video-permutation.png Graphic file (type bmp)
+<Images/Chapter2/video-permutation.png>
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 331.
+(Font)              scaled to size 8.39998pt on input line 332.
 LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 331.
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
-[][]
- []
-
+(Font)              scaled to size 7.70004pt on input line 332.
 
 
 
@@ -1553,7 +1571,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
 [][]
  []
 
@@ -1567,6 +1585,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27]
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+[][]
+ []
+
 File: Images/Chapter2/inpainting-losses.png Graphic file (type bmp)
 <Images/Chapter2/inpainting-losses.png>
 
@@ -1591,11 +1613,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
-[][]
- []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1605,10 +1622,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-File: Images/Chapter2/contrastive.png Graphic file (type bmp)
-<Images/Chapter2/contrastive.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
 [][]
  []
 
@@ -1622,6 +1636,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [31]
+File: Images/Chapter2/contrastive.png Graphic file (type bmp)
+<Images/Chapter2/contrastive.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+[][]
+ []
+
 File: Images/Chapter2/cpc.png Graphic file (type bmp)
 <Images/Chapter2/cpc.png>
 
@@ -1634,12 +1655,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [32]
-Overfull \hbox (5.91089pt too wide) in paragraph at lines 519--521
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
+Overfull \hbox (5.91089pt too wide) in paragraph at lines 520--522
 []\TU/BNazanin.ttf(0)/m/n/12 در نهایت، پس از پایان مرحله‌ی پیش‌‌آموزش، می‌توان از رمزگذار آموزش‌دیده به‌عنوان یک استخراج‌کننده‌ی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--521
+Underfull \hbox (badness 10000) in paragraph at lines 520--522
 [][]
  []
 
@@ -1652,7 +1682,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[33]
+[34]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1661,7 +1691,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[34]
+[35]
 File: Images/Chapter2/moco.png Graphic file (type bmp)
 <Images/Chapter2/moco.png>
 
@@ -1673,31 +1703,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 582--584
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 583--585
 [][]
  []
 
 
-Overfull \hbox (3.50444pt too wide) in paragraph at lines 587--596
+Overfull \hbox (3.50444pt too wide) in paragraph at lines 588--597
 [][]\TU/BNazanin.ttf(0)/m/n/12 روش یادگیری تباینی ساده که به‌اختصار []\TU/times(0)/m/n/12 SimCLR[][][][][][][][][] \TU/BNazanin.ttf(0)/m/n/12 نامیده می‌شود، یکی از اثرگذارترین و پایه‌ای‌ترین[]
  []
 
 
-Overfull \hbox (0.6325pt too wide) in paragraph at lines 587--596
+Overfull \hbox (0.6325pt too wide) in paragraph at lines 588--597
 []\TU/BNazanin.ttf(0)/m/n/12 روش‌های یادگیری تباینی خودنظارتی است که توسط چن و همکاران[[]] معرفی شد. برخلاف روش‌هایی[]
  []
 
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[36]
 Missing character: There is no ـ ("640) in font cmmi12!
 File: Images/Chapter2/simclr-augmentations.png Graphic file (type bmp)
 <Images/Chapter2/simclr-augmentations.png>
@@ -1734,7 +1754,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 722--723
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 723--724
 [][]
  []
 
@@ -1747,17 +1776,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[40]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 739--740
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
 [][]
  []
 
@@ -1792,6 +1812,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [44]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45]
 File: Images/Chapter2/csshar-results.png Graphic file (type bmp)
 <Images/Chapter2/csshar-results.png>
 
@@ -1803,19 +1832,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[45]
+[46]
 File: Images/Chapter2/collossl.png Graphic file (type bmp)
 <Images/Chapter2/collossl.png>
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[46]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1834,13 +1854,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 فصل 3.
 
 
-[49
+[50
 
 
 
@@ -1854,7 +1883,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50]
+[51
+
+]
 File: Images/Chapter3/wavelet-plot.png Graphic file (type bmp)
 <Images/Chapter3/wavelet-plot.png>
 
@@ -1866,7 +1897,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51]
+[52]
 File: Images/Chapter3/proposed-method-pretraining.png Graphic file (type bmp)
 <Images/Chapter3/proposed-method-pretraining.png>
 
@@ -1878,7 +1909,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52]
+[53]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1887,8 +1918,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[53]
-Overfull \hbox (1.27496pt too wide) in paragraph at lines 129--131
+[54]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55]
+Overfull \hbox (1.27496pt too wide) in paragraph at lines 130--132
 []\TU/BNazanin.ttf(0)/m/n/12 همان‌طور که تشریح شد، روش پایه یک چارچوب قدرتمند و منطقی برای یادگیری بازنمایی از سیگنال‌های[]
  []
 
@@ -1901,28 +1941,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54]
+[56]
 File: Images/Chapter3/swav-comparison.png Graphic file (type bmp)
 <Images/Chapter3/swav-comparison.png>
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[55]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[56]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1941,8 +1963,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [58]
-Missing character: There is no ϵ ("3F5) in font cmmi12!
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1961,6 +1981,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [60]
+Missing character: There is no ϵ ("3F5) in font cmmi12!
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1979,13 +2001,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [62]
-File: Images/Chapter3/wavelet-permutation.png Graphic file (type bmp)
-<Images/Chapter3/wavelet-permutation.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1994,7 +2009,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[63])
+[63]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2004,6 +2019,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
+File: Images/Chapter3/wavelet-permutation.png Graphic file (type bmp)
+<Images/Chapter3/wavelet-permutation.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2012,14 +2030,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[65]
+[65])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 4.
 
 
-[66
+[67
 
 
 
@@ -2028,7 +2055,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: Images/Chapter4/hapt-classes.png Graphic file (type bmp)
 <Images/Chapter4/hapt-classes.png>
 
-Overfull \hbox (5.70076pt too wide) in paragraph at lines 37--38
+Overfull \hbox (5.70076pt too wide) in paragraph at lines 38--39
 []\TU/BNazanin.ttf(0)/m/n/12 خطی سه‌محوره و حسگر ژیروسکوپ که سیگنال سرعت زاویه‌ای سه‌محوره را ثبت می‌کند. نرخ نمونه‌برداری[]
  []
 
@@ -2041,23 +2068,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[67]
+[68
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[68]
-Overfull \hbox (5.37662pt too wide) in paragraph at lines 75--77
-[][]\TU/BNazanin.ttf(0)/m/n/12 نکته‌ی مهم در رابطه با نرمال‌سازی داده‌ها این است که اگر ابتدا داده‌ی خام سیگنال‌ها را استانداردسازی[]
- []
-
-File: Images/Chapter4/unnormalized-wavelet.png Graphic file (type bmp)
-<Images/Chapter4/unnormalized-wavelet.png>
-
+]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2076,6 +2089,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [70]
+Overfull \hbox (5.37662pt too wide) in paragraph at lines 76--78
+[][]\TU/BNazanin.ttf(0)/m/n/12 نکته‌ی مهم در رابطه با نرمال‌سازی داده‌ها این است که اگر ابتدا داده‌ی خام سیگنال‌ها را استانداردسازی[]
+ []
+
+File: Images/Chapter4/unnormalized-wavelet.png Graphic file (type bmp)
+<Images/Chapter4/unnormalized-wavelet.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2085,7 +2105,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [71]
-Overfull \hbox (0.83678pt too wide) in paragraph at lines 127--128
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73]
+Overfull \hbox (0.83678pt too wide) in paragraph at lines 128--129
 [][]\TU/BNazanin.ttf(0)/m/n/12 معیار دقت بیانگر نسبت نمونه‌های مثبت واقعی که به درستی تشخیص داده‌شده‌اند به تعداد نمونه‌هایی[]
  []
 
@@ -2098,11 +2136,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72]
-Overfull \hbox (14.33745pt too wide) in paragraph at lines 145--153
-[]\TU/BNazanin.ttf(0)/m/n/12 صحت توافق تصادفی است. این مقدار، نمایانگر صحت عملکرد یک مدل فرضی است که تعداد پیش‌بینی‌هایش[]
- []
-
+[74]
+File: Images/Chapter4/structure-table.png Graphic file (type bmp)
+<Images/Chapter4/structure-table.png>
 
 
 
@@ -2112,32 +2148,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[73])
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[74] (./AUTthesis.bbl
-
-LaTeX Font Warning: Font shape `TU/times(0)/m/it' undefined
-(Font)              using `TU/times(0)/m/n' instead on input line 13.
-
-
-
-[75
-
-
-
-]
-Underfull \hbox (badness 7963) in paragraph at lines 105--110
-[][]\TU/times(0)/m/it/12 Mathew, Sheryl, Subramanian, Annapoorani, MS, Balamurugan, Rajagopal,[]
- []
-
-
+[75])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2155,18 +2166,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[77]
+[77] (./AUTthesis.bbl
+
+LaTeX Font Warning: Font shape `TU/times(0)/m/it' undefined
+(Font)              using `TU/times(0)/m/n' instead on input line 13.
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[78]
-Underfull \hbox (badness 1424) in paragraph at lines 350--354
-[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
+[78
+
+
+
+]
+Underfull \hbox (badness 7963) in paragraph at lines 105--110
+[][]\TU/times(0)/m/it/12 Mathew, Sheryl, Subramanian, Annapoorani, MS, Balamurugan, Rajagopal,[]
  []
 
 
@@ -2197,6 +2210,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [81]
+Underfull \hbox (badness 1424) in paragraph at lines 350--354
+[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2206,6 +2224,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [82]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[84]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85]
 Underfull \hbox (badness 2073) in paragraph at lines 654--659
 [][]\TU/times(0)/m/it/12 Anguita, Davide, Ghio, Alessandro, Oneto, Luca, Parra, Xavier, Reyes-Ortiz,[]
  []
@@ -2221,19 +2266,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[83]
+[86]
 \openout2 = `en-abstract.aux'.
 
  (./en-abstract.tex)
 
-[84
+[87
 
 ] (./en_title.tex
 File: en-logo.png Graphic file (type bmp)
 <en-logo.png>
 
 
-[85
+[88
 
 
 ]) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./en-abstract.aux))
@@ -2249,15 +2294,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: FE50C8C4196F6C9320478C75DE478EDD;8782.
+(rerunfilecheck)             Checksum: C7C820B997D7F0DF4A7D70DABABE62B9;8940.
  ) 
 Here is how much of TeX's memory you used:
- 22401 strings out of 473832
- 465717 string characters out of 5729482
- 877182 words of memory out of 5000000
- 44919 multiletter control sequences out of 15000+600000
+ 22495 strings out of 473832
+ 467448 string characters out of 5729482
+ 880505 words of memory out of 5000000
+ 45008 multiletter control sequences out of 15000+600000
  570586 words of font info for 164 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,134p,2436b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,134p,2438b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (96 pages).
+Output written on AUTthesis.pdf (99 pages).
