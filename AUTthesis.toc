@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
 \contentsline {chapter}{فهرست تصاویر}{د}{section*.3}%
-\contentsline {chapter}{فهرست جداول}{ه}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{و}{section*.4}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {section}{\numberline {1-1}دستاوردهای پژوهش}{7}{section.1.1}%
 \contentsline {section}{\numberline {1-2}ساختار مطالب}{7}{section.1.2}%
@@ -46,5 +46,7 @@
 \contentsline {subsection}{\numberline {4-2-2}آموزش مدل}{72}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4-2-3}معیارهای ارزیابی}{73}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4-2-4}ابرپارامترها}{75}{subsection.4.2.4}%
-\contentsline {chapter}{منابع و مراجع}{78}{appendix*.33}%
+\contentsline {section}{\numberline {4-3}نتایج}{77}{section.4.3}%
+\contentsline {subsection}{\numberline {4-3-1}نتایج آزمایش‌های درون‌مجموعه‌ای}{77}{subsection.4.3.1}%
+\contentsline {chapter}{منابع و مراجع}{79}{appendix*.35}%
 \contentsfinish 
