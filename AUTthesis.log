@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  7 SEP 2025 02:32
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  8 SEP 2025 04:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1192,22 +1192,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3] (./AUTthesis.lof)
+[3] (./AUTthesis.lof
+
+[4
+
+])
 \tf@lof=\write6
 \openout6 = `AUTthesis.lof'.
 
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4
-
-]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2171,7 +2164,7 @@ File: Images/Chapter4/main-results-f1.png Graphic file (type bmp)
 <Images/Chapter4/main-results-f1.png>
 File: Images/Chapter4/main-results-kappa.png Graphic file (type bmp)
 <Images/Chapter4/main-results-kappa.png>
-)
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2181,6 +2174,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [77]
+Overfull \hbox (11.51799pt too wide) in paragraph at lines 354--355
+[]\TU/BNazanin.ttf(0)/m/n/12 حالت (کمبود داده) کارآمدتر است. این موضوع نشان می‌دهد که مدل پیشنهادی قابلیت تعمیم‌پذیری[]
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2189,23 +2187,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[78] (./AUTthesis.bbl
-
-LaTeX Font Warning: Font shape `TU/times(0)/m/it' undefined
-(Font)              using `TU/times(0)/m/n' instead on input line 13.
-
-
-
-[79
+[78]
+Missing character: There is no ٪ (U+066A) in font [Fonts/B Nazanin.ttf]/OT:language=dflt;script=arab;mapping=persian-tex-text;!
+File: Images/Chapter4/transfer-results-f1.png Graphic file (type bmp)
+<Images/Chapter4/transfer-results-f1.png>
+File: Images/Chapter4/transfer-results-kappa.png Graphic file (type bmp)
+<Images/Chapter4/transfer-results-kappa.png>
 
 
 
-]
-Underfull \hbox (badness 7963) in paragraph at lines 105--110
-[][]\TU/times(0)/m/it/12 Mathew, Sheryl, Subramanian, Annapoorani, MS, Balamurugan, Rajagopal,[]
- []
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-
+[79]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2223,7 +2220,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[81]
+[81])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2233,29 +2230,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [82]
-Underfull \hbox (badness 1424) in paragraph at lines 350--354
-[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83] (./AUTthesis.bbl
+
+LaTeX Font Warning: Font shape `TU/times(0)/m/it' undefined
+(Font)              using `TU/times(0)/m/n' instead on input line 13.
+
+
+
+[84
+
+
+
+]
+Underfull \hbox (badness 7963) in paragraph at lines 105--110
+[][]\TU/times(0)/m/it/12 Mathew, Sheryl, Subramanian, Annapoorani, MS, Balamurugan, Rajagopal,[]
  []
 
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[83]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[84]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2274,6 +2273,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [86]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87]
+Underfull \hbox (badness 1424) in paragraph at lines 350--354
+[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[90]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[91]
 Underfull \hbox (badness 2073) in paragraph at lines 654--659
 [][]\TU/times(0)/m/it/12 Anguita, Davide, Ghio, Alessandro, Oneto, Luca, Parra, Xavier, Reyes-Ortiz,[]
  []
@@ -2289,19 +2338,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[87]
+[92]
 \openout2 = `en-abstract.aux'.
 
  (./en-abstract.tex)
 
-[88
+[93
 
 ] (./en_title.tex
 File: en-logo.png Graphic file (type bmp)
 <en-logo.png>
 
 
-[89
+[94
 
 
 ]) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./en-abstract.aux))
@@ -2317,15 +2366,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: A7AE016A089204F2330BFAB460701A93;9345.
+(rerunfilecheck)             Checksum: 720D5F194916DAA8EA4736EE304795A6;9909.
  ) 
 Here is how much of TeX's memory you used:
- 22531 strings out of 473832
- 468575 string characters out of 5729482
- 881288 words of memory out of 5000000
- 45042 multiletter control sequences out of 15000+600000
+ 22561 strings out of 473832
+ 469592 string characters out of 5729482
+ 882249 words of memory out of 5000000
+ 45070 multiletter control sequences out of 15000+600000
  570586 words of font info for 164 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,16n,134p,2438b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (101 pages).
+Output written on AUTthesis.pdf (106 pages).
