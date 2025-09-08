@@ -51,5 +51,8 @@
 \contentsline {subsection}{\numberline {4-3-2}نتایج آزمایش‌های بین‌مجموعه‌ای}{79}{subsection.4.3.2}%
 \contentsline {section}{\numberline {4-4}جزئیات اجرا}{81}{section.4.4}%
 \contentsline {section}{\numberline {4-5}جمع‌بندی}{82}{section.4.5}%
-\contentsline {chapter}{منابع و مراجع}{84}{appendix*.37}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{84}{chapter.5}%
+\contentsline {section}{\numberline {5-1}جمع‌بندی}{85}{section.5.1}%
+\contentsline {section}{\numberline {5-2}کارهای آتی}{86}{section.5.2}%
+\contentsline {chapter}{منابع و مراجع}{88}{appendix*.37}%
 \contentsfinish 

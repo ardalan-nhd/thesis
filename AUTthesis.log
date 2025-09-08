@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  8 SEP 2025 04:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  9 SEP 2025 00:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -985,7 +985,7 @@ LaTeX Warning: Label `fig:wavelet-plot' multiply defined.
 
 LaTeX Warning: Label `fig:wavelet-plot@cref' multiply defined.
 
-) (./chapter4.aux) (./en-abstract.aux))
+) (./chapter4.aux) (./chapter5.aux) (./en-abstract.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -2238,14 +2238,65 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[83] (./AUTthesis.bbl
+[83]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+فصل 5.
+
+
+[84
+
+
+
+
+]
+Overfull \hbox (0.93825pt too wide) in paragraph at lines 7--8
+[]\TU/BNazanin.ttf(0)/m/n/12 سیستم‌های هوشمند مراقبتی، خانه‌های هوشمند و سلامت دیجیتال به شمار می‌رود. با وجود موفقیت‌های[]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85
+
+]
+Overfull \hbox (12.40547pt too wide) in paragraph at lines 21--22
+[][]\TU/BNazanin.ttf(0)/b/n/12 به‌کارگیری معماری‌های پیشرفته‌تر: \TU/BNazanin.ttf(0)/m/n/12 رمزگذار‌های استفاده‌شده در این پژوهش مبتنی بر شبکه‌های[]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[86])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87] (./AUTthesis.bbl
 
 LaTeX Font Warning: Font shape `TU/times(0)/m/it' undefined
 (Font)              using `TU/times(0)/m/n' instead on input line 13.
 
 
 
-[84
+[88
 
 
 
@@ -2255,47 +2306,6 @@ Underfull \hbox (badness 7963) in paragraph at lines 105--110
  []
 
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[85]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[86]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[87]
-Underfull \hbox (badness 1424) in paragraph at lines 350--354
-[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
- []
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[88]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2323,6 +2333,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [91]
+Underfull \hbox (badness 1424) in paragraph at lines 350--354
+[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[92]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[93]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[94]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[95]
 Underfull \hbox (badness 2073) in paragraph at lines 654--659
 [][]\TU/times(0)/m/it/12 Anguita, Davide, Ghio, Alessandro, Oneto, Luca, Parra, Xavier, Reyes-Ortiz,[]
  []
@@ -2338,22 +2389,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[92]
+[96]
 \openout2 = `en-abstract.aux'.
 
  (./en-abstract.tex)
 
-[93
+[97
 
 ] (./en_title.tex
 File: en-logo.png Graphic file (type bmp)
 <en-logo.png>
 
 
-[94
+[98
 
 
-]) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./en-abstract.aux))
+]) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./en-abstract.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2366,15 +2417,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 720D5F194916DAA8EA4736EE304795A6;9909.
+(rerunfilecheck)             Checksum: 14BBE05EB93F7AD6245D3103F8323778;10471.
  ) 
 Here is how much of TeX's memory you used:
- 22561 strings out of 473832
- 469592 string characters out of 5729482
- 882249 words of memory out of 5000000
- 45070 multiletter control sequences out of 15000+600000
+ 22587 strings out of 473832
+ 470175 string characters out of 5729482
+ 883380 words of memory out of 5000000
+ 45089 multiletter control sequences out of 15000+600000
  570586 words of font info for 164 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,16n,134p,2438b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (106 pages).
+Output written on AUTthesis.pdf (110 pages).
