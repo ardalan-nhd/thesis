@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  9 SEP 2025 00:34
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  10 SEP 2025 12:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1054,23 +1054,23 @@ Package caption Info: End \AtBeginDocument code.
 File: fa-logo.png Graphic file (type bmp)
 <fa-logo.png>
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 37.
+(Font)              scaled to size 14.39996pt on input line 39.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 19.19995pt on input line 37.
+(Font)              scaled to size 19.19995pt on input line 39.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 16.79996pt on input line 37.
+(Font)              scaled to size 16.79996pt on input line 39.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 19.19995pt on input line 37.
+(Font)              scaled to size 19.19995pt on input line 39.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 23.99994pt on input line 37.
+(Font)              scaled to size 23.99994pt on input line 39.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 23.99994pt on input line 37.
+(Font)              scaled to size 23.99994pt on input line 39.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 21.59995pt on input line 37.
+(Font)              scaled to size 21.59995pt on input line 39.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 21.59995pt on input line 37.
+(Font)              scaled to size 21.59995pt on input line 39.
 LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/b/n' will be
-(Font)              scaled to size 17.6001pt on input line 37.
+(Font)              scaled to size 17.6001pt on input line 39.
 
 
 [1
@@ -1113,6 +1113,9 @@ LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/m/n' will be
 
 
 [6]
+LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/b/n' will be
+(Font)              scaled to size 13.20007pt on input line 44.
+
 Overfull \hbox (4.71089pt too wide) in paragraph at lines 44--46
 []\TU/BNazanin.ttf(0)/m/n/12 خودنظارتی طراحی شده که با بهره‌گیری از ترکیب دیدگاه‌های زمانی و فرکانسی، تلاش می‌کند نمایش‌هایی[]
  []
@@ -1138,8 +1141,6 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
  (./AUTthesis.toc
-LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 10.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
