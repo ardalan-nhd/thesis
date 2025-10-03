@@ -3,13 +3,13 @@
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {2-1}{\ignorespaces مقایسه‌ی عملکرد روش پیش‌بینی چرخش }}{24}{table.caption.12}%
 \contentsline {table}{\numberline {2-2}{\ignorespaces دقت روش \lr {SimCLR} در یادگیری انتقالی}}{40}{table.caption.22}%
-\contentsline {table}{\numberline {2-3}{\ignorespaces نتایج روش \lr {CPC} در شناسایی فعالیت}}{45}{table.caption.23}%
+\contentsline {table}{\numberline {2-3}{\ignorespaces نتایج روش \lr {CPC} در شناسایی فعالیت}}{44}{table.caption.23}%
 \contentsline {table}{\numberline {2-4}{\ignorespaces نتایج روش \lr {CSSHAR}}}{46}{table.caption.24}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4-1}{\ignorespaces پیکربندی یادگیرنده‌ی سیگنال (سمت راست) و یادگیرنده‌ی اسکالوگرام (سمت چپ)}}{76}{table.caption.32}%
-\contentsline {table}{\numberline {4-2}{\ignorespaces نتایج عملکرد مدل در سناریوی درون‌مجموعه‌ای بر اساس درصدهای مختلف داده آموزشی}}{78}{table.caption.33}%
-\contentsline {table}{\numberline {4-3}{\ignorespaces نتایج عملکرد مدل در سناریوی بین‌مجموعه‌ای بر اساس درصدهای مختلف داده آموزشی}}{80}{table.caption.35}%
+\contentsline {table}{\numberline {4-1}{\ignorespaces پیکربندی یادگیرنده‌ی سیگنال (سمت راست) و یادگیرنده‌ی اسکالوگرام (سمت چپ)}}{75}{table.caption.32}%
+\contentsline {table}{\numberline {4-2}{\ignorespaces نتایج عملکرد مدل در سناریوی درون‌مجموعه‌ای بر اساس درصدهای مختلف داده آموزشی}}{77}{table.caption.33}%
+\contentsline {table}{\numberline {4-3}{\ignorespaces نتایج عملکرد مدل در سناریوی بین‌مجموعه‌ای بر اساس درصدهای مختلف داده آموزشی}}{79}{table.caption.35}%
 \addvspace {10\p@ }
 \contentsfinish 
 \contentsfinish 
