@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  3 OCT 2025 19:40
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.1)  6 OCT 2025 23:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1180,11 +1180,7 @@ LaTeX Font Info:    Font shape `TU/Yas.ttf(1)/m/it' will be
 
 [2
 
-])
-\tf@toc=\write5
-\openout5 = `AUTthesis.toc'.
-
-
+]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1193,7 +1189,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3]
+[3])
+\tf@toc=\write5
+\openout5 = `AUTthesis.toc'.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1438,20 +1438,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-File: Images/Chapter2/selfsupervised-overview.png Graphic file (type bmp)
-<Images/Chapter2/selfsupervised-overview.png>
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[17]
-Overfull \hbox (8.05316pt too wide) in paragraph at lines 197--199
-[][]\TU/BNazanin.ttf(0)/b/n/12 وظیفه پوششی: \TU/BNazanin.ttf(0)/m/n/12 وظیفه پوششی در واقع وظیفه‌ای است که برای اجرای فاز پیش‌آموزش خودنظارتی[]
+Overfull \hbox (11.5078pt too wide) in paragraph at lines 172--174
+[][]\TU/BNazanin.ttf(0)/b/n/12 کدگذار مبدل برای مدل‌سازی وابستگی‌های زمانی سراسری: \TU/BNazanin.ttf(0)/m/n/12 با استفاده از لایه‌های خودتوجهی[]
  []
 
 
@@ -1463,7 +1451,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[17]
+File: Images/Chapter2/selfsupervised-overview.png Graphic file (type bmp)
+<Images/Chapter2/selfsupervised-overview.png>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [18]
+Overfull \hbox (8.05316pt too wide) in paragraph at lines 214--216
+[][]\TU/BNazanin.ttf(0)/b/n/12 وظیفه پوششی: \TU/BNazanin.ttf(0)/m/n/12 وظیفه پوششی در واقع وظیفه‌ای است که برای اجرای فاز پیش‌آموزش خودنظارتی[]
+ []
+
 File: Images/Chapter2/self-vs-unsupervised.png Graphic file (type bmp)
 <Images/Chapter2/self-vs-unsupervised.png>
 
@@ -1476,6 +1480,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
 Missing character: There is no θ ("3B8) in font cmmi8!
 Missing character: There is no θ ("3B8) in font cmmi8!
 Missing character: There is no θ ("3B8) in font cmmi8!
@@ -1488,8 +1501,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20]
-Overfull \hbox (4.22426pt too wide) in paragraph at lines 251--254
+[21]
+Overfull \hbox (4.22426pt too wide) in paragraph at lines 268--271
 []\TU/BNazanin.ttf(0)/m/n/12 است. چنین بازنمایی‌هایی معمولاً ظرفیت بالایی برای انتقال به وظایف پایین‌دستی مانند طبقه‌بندی[]
  []
 
@@ -1502,32 +1515,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-[][]
- []
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [22]
-File: Images/Chapter2/rotnet.png Graphic file (type bmp)
-<Images/Chapter2/rotnet.png>
-File: Images/Chapter2/rotnet-results.png Graphic file (type bmp)
-<Images/Chapter2/rotnet-results.png>
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+[][]
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--297
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 [][]
  []
 
@@ -1541,19 +1535,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
+File: Images/Chapter2/rotnet.png Graphic file (type bmp)
+<Images/Chapter2/rotnet.png>
+File: Images/Chapter2/rotnet-results.png Graphic file (type bmp)
+<Images/Chapter2/rotnet-results.png>
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[24]
-File: Images/Chapter2/jigsaw.png Graphic file (type bmp)
-<Images/Chapter2/jigsaw.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 311--314
 [][]
  []
 
@@ -1566,13 +1553,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[24]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [25]
-File: Images/Chapter2/video-permutation.png Graphic file (type bmp)
-<Images/Chapter2/video-permutation.png>
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 332.
-LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 332.
+File: Images/Chapter2/jigsaw.png Graphic file (type bmp)
+<Images/Chapter2/jigsaw.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+[][]
+ []
+
 
 
 
@@ -1583,7 +1580,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+File: Images/Chapter2/video-permutation.png Graphic file (type bmp)
+<Images/Chapter2/video-permutation.png>
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 349.
+LaTeX Font Info:    Font shape `TU/Yas.ttf(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 349.
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 [][]
  []
 
@@ -1597,10 +1601,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
-[][]
- []
-
 File: Images/Chapter2/inpainting-losses.png Graphic file (type bmp)
 <Images/Chapter2/inpainting-losses.png>
 
@@ -1634,7 +1634,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
 [][]
  []
 
@@ -1651,7 +1651,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: Images/Chapter2/contrastive.png Graphic file (type bmp)
 <Images/Chapter2/contrastive.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 [][]
  []
 
@@ -1676,12 +1676,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
-Overfull \hbox (3.49918pt too wide) in paragraph at lines 520--522
+Overfull \hbox (3.49918pt too wide) in paragraph at lines 529--531
 []\TU/BNazanin.ttf(0)/m/n/12 در نهایت، پس از پایان مرحله‌ی پیش‌‌آموزش، می‌توان از کدگذار آموزش‌دیده به‌عنوان یک استخراج‌کننده‌ی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--522
+Underfull \hbox (badness 10000) in paragraph at lines 529--531
 [][]
  []
 
@@ -1695,6 +1695,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
+File: Images/Chapter2/moco.png Graphic file (type bmp)
+<Images/Chapter2/moco.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1704,10 +1707,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35]
-File: Images/Chapter2/moco.png Graphic file (type bmp)
-<Images/Chapter2/moco.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 583--585
+Underfull \hbox (badness 10000) in paragraph at lines 592--594
 [][]
  []
 
@@ -1721,7 +1721,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [36]
-Overfull \hbox (0.6325pt too wide) in paragraph at lines 588--597
+Overfull \hbox (0.6325pt too wide) in paragraph at lines 597--606
 []\TU/BNazanin.ttf(0)/m/n/12 روش‌های یادگیری تباینی خودنظارتی است که توسط چن و همکاران[[]] معرفی شد. برخلاف روش‌هایی[]
  []
 
@@ -1762,16 +1762,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: Images/Chapter2/simclr-transfer.png Graphic file (type bmp)
 <Images/Chapter2/simclr-transfer.png>
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 723--724
+Underfull \hbox (badness 10000) in paragraph at lines 732--733
 [][]
  []
 
@@ -1784,8 +1775,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[40]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 740--741
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
 [][]
  []
 
@@ -1852,7 +1852,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[47]) (./chapter3.tex
+[47]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1862,10 +1862,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48]
+
+LaTeX Warning: Citation `hong2024crosshar' on page 49 undefined on input line 876.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49]
+Overfull \hbox (49.70909pt too wide) in paragraph at lines 881--882
+[][]\TU/BNazanin.ttf(0)/b/n/12 افزوده‌سازی داده‌ی حسگر مبتنی بر فیزیک ([]\TU/times(0)/b/n/12 Physically-informed Sensor Data Augmentation[]\TU/BNazanin.ttf(0)/b/n/12 ):[]
+ []
+
+
+Overfull \hbox (0.677pt too wide) in paragraph at lines 884--885
+[][]\TU/BNazanin.ttf(0)/b/n/12 مدل‌سازی حسگر پوشیده ([]\TU/times(0)/b/n/12 Masked Sensor Modeling[]\TU/BNazanin.ttf(0)/b/n/12 ): \TU/BNazanin.ttf(0)/m/n/12 با الهام از []\TU/times(0)/m/n/12 BERT[] \TU/BNazanin.ttf(0)/m/n/12 در پردازش[]
+ []
+
+
+Overfull \hbox (6.2156pt too wide) in paragraph at lines 885--886
+[][]\TU/BNazanin.ttf(0)/b/n/12 تنظیم‌کردن تباینی ([]\TU/times(0)/b/n/12 Contrastive Regularization[]\TU/BNazanin.ttf(0)/b/n/12 ): \TU/BNazanin.ttf(0)/m/n/12 برای تکمیل مرحله قبل و یادگیری[]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50]) (./chapter3.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51]
 فصل 3.
 
 
-[49
+[52
 
 ]
 
@@ -1876,7 +1922,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50
+[53
 
 ]
 File: Images/Chapter3/wavelet-plot.png Graphic file (type bmp)
@@ -1890,7 +1936,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51]
+[54]
 File: Images/Chapter3/proposed-method-pretraining.png Graphic file (type bmp)
 <Images/Chapter3/proposed-method-pretraining.png>
 
@@ -1902,42 +1948,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[53]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[54]
-Overfull \hbox (1.27496pt too wide) in paragraph at lines 130--132
-[]\TU/BNazanin.ttf(0)/m/n/12 همان‌طور که تشریح شد، روش پایه یک چارچوب قدرتمند و منطقی برای یادگیری بازنمایی از سیگنال‌های[]
- []
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [55]
-File: Images/Chapter3/swav-comparison.png Graphic file (type bmp)
-<Images/Chapter3/swav-comparison.png>
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1956,6 +1967,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [57]
+Overfull \hbox (1.27496pt too wide) in paragraph at lines 130--132
+[]\TU/BNazanin.ttf(0)/m/n/12 همان‌طور که تشریح شد، روش پایه یک چارچوب قدرتمند و منطقی برای یادگیری بازنمایی از سیگنال‌های[]
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1965,6 +1981,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [58]
+File: Images/Chapter3/swav-comparison.png Graphic file (type bmp)
+<Images/Chapter3/swav-comparison.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1974,8 +1993,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [59]
-Missing character: There is no ϵ ("3F5) in font cmmi12!
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2003,6 +2020,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [62]
+Missing character: There is no ϵ ("3F5) in font cmmi12!
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2012,6 +2031,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [63]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66]
 File: Images/Chapter3/wavelet-permutation.png Graphic file (type bmp)
 <Images/Chapter3/wavelet-permutation.png>
 
@@ -2023,7 +2069,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[64]) (./chapter4.tex
+[67]) (./chapter4.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2032,11 +2078,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[65]
+[68]
 فصل 4.
 
 
-[66
+[69
 
 ]
 File: Images/Chapter4/hapt-classes.png Graphic file (type bmp)
@@ -2055,43 +2101,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[67
+[70
 
 ]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[68]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[69]
-Overfull \hbox (5.37662pt too wide) in paragraph at lines 76--78
-[][]\TU/BNazanin.ttf(0)/m/n/12 نکته‌ی مهم در رابطه با نرمال‌سازی داده‌ها این است که اگر ابتدا داده‌ی خام سیگنال‌ها را استانداردسازی[]
- []
-
-File: Images/Chapter4/unnormalized-wavelet.png Graphic file (type bmp)
-<Images/Chapter4/unnormalized-wavelet.png>
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[70]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2110,10 +2122,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [72]
-Overfull \hbox (0.83678pt too wide) in paragraph at lines 128--129
-[][]\TU/BNazanin.ttf(0)/m/n/12 معیار دقت بیانگر نسبت نمونه‌های مثبت واقعی که به درستی تشخیص داده‌شده‌اند به تعداد نمونه‌هایی[]
+Overfull \hbox (5.37662pt too wide) in paragraph at lines 76--78
+[][]\TU/BNazanin.ttf(0)/m/n/12 نکته‌ی مهم در رابطه با نرمال‌سازی داده‌ها این است که اگر ابتدا داده‌ی خام سیگنال‌ها را استانداردسازی[]
  []
 
+File: Images/Chapter4/unnormalized-wavelet.png Graphic file (type bmp)
+<Images/Chapter4/unnormalized-wavelet.png>
 
 
 
@@ -2124,9 +2138,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [73]
-File: Images/Chapter4/structure-table.png Graphic file (type bmp)
-<Images/Chapter4/structure-table.png>
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2145,6 +2156,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [75]
+Overfull \hbox (0.83678pt too wide) in paragraph at lines 128--129
+[][]\TU/BNazanin.ttf(0)/m/n/12 معیار دقت بیانگر نسبت نمونه‌های مثبت واقعی که به درستی تشخیص داده‌شده‌اند به تعداد نمونه‌هایی[]
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76]
+File: Images/Chapter4/structure-table.png Graphic file (type bmp)
+<Images/Chapter4/structure-table.png>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78]
 File: Images/Chapter4/main-results-f1.png Graphic file (type bmp)
 <Images/Chapter4/main-results-f1.png>
 File: Images/Chapter4/main-results-kappa.png Graphic file (type bmp)
@@ -2158,7 +2204,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[76]
+[79]
 Overfull \hbox (11.51799pt too wide) in paragraph at lines 354--355
 []\TU/BNazanin.ttf(0)/m/n/12 حالت (کمبود داده) کارآمدتر است. این موضوع نشان می‌دهد که مدل پیشنهادی قابلیت تعمیم‌پذیری[]
  []
@@ -2172,39 +2218,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[77]
+[80]
 File: Images/Chapter4/transfer-results-f1.png Graphic file (type bmp)
 <Images/Chapter4/transfer-results-f1.png>
 File: Images/Chapter4/transfer-results-kappa.png Graphic file (type bmp)
 <Images/Chapter4/transfer-results-kappa.png>
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[78]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[79]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[80]) (./chapter5.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2223,10 +2242,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [82]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]) (./chapter5.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[84]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85]
 فصل 5.
 
 
-[83
+[86
 
 ]
 Overfull \hbox (0.93825pt too wide) in paragraph at lines 7--8
@@ -2242,7 +2288,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[84
+[87
 
 ]
 Overfull \hbox (9.99376pt too wide) in paragraph at lines 21--22
@@ -2258,39 +2304,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[85]) (./AUTthesis.bbl
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[86]
-
-LaTeX Font Warning: Font shape `TU/times(0)/m/it' undefined
-(Font)              using `TU/times(0)/m/n' instead on input line 13.
-
-
-
-[87
-
-]
-Underfull \hbox (badness 7963) in paragraph at lines 105--110
-[][]\TU/times(0)/m/it/12 Mathew, Sheryl, Subramanian, Annapoorani, MS, Balamurugan, Rajagopal,[]
- []
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[88]
+[88]) (./AUTthesis.bbl
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2301,16 +2315,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [89]
 
+LaTeX Font Warning: Font shape `TU/times(0)/m/it' undefined
+(Font)              using `TU/times(0)/m/n' instead on input line 13.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[90]
-Underfull \hbox (badness 1424) in paragraph at lines 350--354
-[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
+
+[90
+
+]
+Underfull \hbox (badness 7963) in paragraph at lines 105--110
+[][]\TU/times(0)/m/it/12 Mathew, Sheryl, Subramanian, Annapoorani, MS, Balamurugan, Rajagopal,[]
  []
 
 
@@ -2341,6 +2355,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [93]
+Underfull \hbox (badness 1424) in paragraph at lines 350--354
+[][]\TU/times(0)/m/it/12 Attal, Ferhat, Mohammed, Samer, Dedabrishvili, Mariam, Chamroukhi, Faicel,[]
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2350,7 +2369,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [94]
-Underfull \hbox (badness 2073) in paragraph at lines 654--659
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[95]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[96]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[97]
+Underfull \hbox (badness 2073) in paragraph at lines 664--669
 [][]\TU/times(0)/m/it/12 Anguita, Davide, Ghio, Alessandro, Oneto, Luca, Parra, Xavier, Reyes-Ortiz,[]
  []
 
@@ -2365,19 +2411,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[95]
+[98]
 \openout2 = `en-abstract.aux'.
 
  (./en-abstract.tex)
 
-[96
+[99
 
 ] (./en_title.tex
 File: en-logo.png Graphic file (type bmp)
 <en-logo.png>
 
 
-[97
+[100
 
 
 ]) (./AUTthesis.aux (./en-abstract.aux))
@@ -2390,18 +2436,21 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 830719029732CD0285A5A5A616C34800;10455.
+(rerunfilecheck)             Checksum: 3B0CBE1933E0B820B116499B8139D7FF;11652.
  ) 
 Here is how much of TeX's memory you used:
- 22727 strings out of 473832
- 471818 string characters out of 5729482
- 884809 words of memory out of 5000000
- 45245 multiletter control sequences out of 15000+600000
+ 22747 strings out of 473832
+ 472115 string characters out of 5729482
+ 886211 words of memory out of 5000000
+ 45265 multiletter control sequences out of 15000+600000
  570586 words of font info for 164 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,16n,134p,2438b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (110 pages).
+Output written on AUTthesis.pdf (113 pages).

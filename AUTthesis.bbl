@@ -388,6 +388,16 @@ Wang, Huaijun, Zhao, Jing, Li, Junhuai, Tian, Ling, Tu, Pengjia, Cao, Ting, An,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{liu2025set}
+Liu, Yunbo and Qin, Xukui and Gao, Yifan and Li, Xiang and Feng, Chengwei.
+\newblock SETransformer: A hybrid attention-based architecture for robust
+  human activity recognition
+\newblock {\em arXiv preprint}, arXiv:2505.19369, 2025.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{liu2021self}
 Liu, Xiao, Zhang, Fanjin, Hou, Zhenyu, Mian, Li, Wang, Zhaoyu, Zhang, Jing, and
   Tang, Jie.
