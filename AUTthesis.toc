@@ -50,11 +50,11 @@
 \contentsline {subsection}{\numberline {4-2-4}ابرپارامترها}{77}{subsection.4.2.4}%
 \contentsline {section}{\numberline {4-3}نتایج}{79}{section.4.3}%
 \contentsline {subsection}{\numberline {4-3-1}نتایج آزمایش‌های درون‌مجموعه‌ای}{79}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4-3-2}نتایج آزمایش‌های بین‌مجموعه‌ای}{81}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4-4}جزئیات اجرا}{83}{section.4.4}%
-\contentsline {section}{\numberline {4-5}جمع‌بندی}{84}{section.4.5}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{86}{chapter.5}%
-\contentsline {section}{\numberline {5-1}جمع‌بندی}{87}{section.5.1}%
-\contentsline {section}{\numberline {5-2}کارهای آتی}{88}{section.5.2}%
-\contentsline {chapter}{منابع و مراجع}{90}{appendix*.37}%
+\contentsline {subsection}{\numberline {4-3-2}نتایج آزمایش‌های بین‌مجموعه‌ای}{83}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4-4}جزئیات اجرا}{85}{section.4.4}%
+\contentsline {section}{\numberline {4-5}جمع‌بندی}{87}{section.4.5}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{88}{chapter.5}%
+\contentsline {section}{\numberline {5-1}جمع‌بندی}{89}{section.5.1}%
+\contentsline {section}{\numberline {5-2}کارهای آتی}{90}{section.5.2}%
+\contentsline {chapter}{منابع و مراجع}{92}{appendix*.39}%
 \contentsfinish 
