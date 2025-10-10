@@ -5,12 +5,12 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{alaghbari2022activities}
-Alaghbari, Khaled~A, Saad, Mohamad Hanif~Md, Hussain, Aini, and Alam,
-  Muhammad~Raisul.
-\newblock Activities recognition, anomaly detection and next activity
-  prediction based on neural networks in smart homes.
-\newblock {\em IEEE Access}, 10:28219--28232, 2022.
+\bibitem{zhu2015wearable}
+Zhu, Chun, Sheng, Weihua, and Liu, Meiqin.
+\newblock Wearable sensor-based behavioral anomaly detection in smart assisted
+  living systems.
+\newblock {\em IEEE Transactions on automation science and engineering},
+  12(4):1225--1234, 2015.
 
 \end{LTRbibitems}
 
@@ -58,23 +58,23 @@ Pereyda, Christopher, Raghunath, Nisha, Minor, Bryan, Wilson, Garrett,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{alaghbari2022activities}
+Alaghbari, Khaled~A, Saad, Mohamad Hanif~Md, Hussain, Aini, and Alam,
+  Muhammad~Raisul.
+\newblock Activities recognition, anomaly detection and next activity
+  prediction based on neural networks in smart homes.
+\newblock {\em IEEE Access}, 10:28219--28232, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{jaouedi2020prediction}
 Jaouedi, Neziha, Perales, Francisco~J, Buades, Jos{\'e}~Maria, Boujnah,
   Noureddine, and Bouhlel, Med~Salim.
 \newblock Prediction of human activities based on a new structure of skeleton
   features and deep learning model.
 \newblock {\em Sensors}, 20(17):4944, 2020.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{zhu2015wearable}
-Zhu, Chun, Sheng, Weihua, and Liu, Meiqin.
-\newblock Wearable sensor-based behavioral anomaly detection in smart assisted
-  living systems.
-\newblock {\em IEEE Transactions on automation science and engineering},
-  12(4):1225--1234, 2015.
 
 \end{LTRbibitems}
 
@@ -161,6 +161,16 @@ Chen, Kaixuan, Zhang, Dalin, Yao, Lina, Guo, Bin, Yu, Zhiwen, and Liu, Yunhao.
 \newblock Deep learning for sensor-based human activity recognition: Overview,
   challenges, and opportunities.
 \newblock {\em ACM Computing Surveys (CSUR)}, 54(4):1--40, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{yang2025gaussian}
+Yang, Xiao and Mohamed, Ahmad Sufril~Azlan.
+\newblock Gaussian-based r-cnn with large selective kernel for rotated object
+  detection in remote sensing images.
+\newblock {\em Neurocomputing}, 620(1):129248, 2025.
 
 \end{LTRbibitems}
 
@@ -367,6 +377,16 @@ Guo, Haodong, Chen, Ling, Peng, Liangying, and Chen, Gencai.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{kumar2024human}
+Kumar, Pranjal, Chauhan, Siddhartha, and Awasthi, Lalit~Kumar.
+\newblock Human activity recognition (har) using deep learning: Review,
+  methodologies, progress and future research directions.
+\newblock {\em Archives of Computational Methods in Engineering}, 31(1), 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{gao2021danhar}
 Gao, Wenbin, Zhang, Lei, Teng, Qi, He, Jun, and Wu, Hao.
 \newblock Danhar: Dual attention network for multimodal human activity
@@ -389,10 +409,29 @@ Wang, Huaijun, Zhao, Jing, Li, Junhuai, Tian, Ling, Tu, Pengjia, Cao, Ting, An,
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{liu2025set}
-Liu, Yunbo and Qin, Xukui and Gao, Yifan and Li, Xiang and Feng, Chengwei.
-\newblock SETransformer: A hybrid attention-based architecture for robust
-  human activity recognition
-\newblock {\em arXiv preprint}, arXiv:2505.19369, 2025.
+Liu, Yunbo, Qin, Xukui, Gao, Yifan, Li, Xiang, and Feng, Chengwei.
+\newblock Setransformer: A hybrid attention-based architecture for robust human
+  activity recognition.
+\newblock {\em arXiv preprint arXiv:2505.19369}, 2505:19369, 2025.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{li2023human}
+Li, Yang, Yang, Guanci, Su, Zhidong, Li, Shaobo, and Wang, Yang.
+\newblock Human activity recognition based on multienvironment sensor data.
+\newblock {\em Information Fusion}, 91(1):47--63, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{li2024sensorllm}
+Li, Zechen, Deldari, Shohreh, Chen, Linyao, Xue, Hao, and Salim, Flora~D.
+\newblock Sensorllm: Human-intuitive alignment of multivariate sensor data with
+  llms for activity recognition.
+\newblock {\em arXiv preprint arXiv:2410.10624}, 2024.
 
 \end{LTRbibitems}
 
@@ -482,24 +521,12 @@ Misra, Ishan, Zitnick, C~Lawrence, and Hebert, Martial.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{banville2019self}
-Banville, Hubert, Albuquerque, Isabela, Hyv{\"a}rinen, Aapo, Moffat, Graeme,
-  Engemann, Denis-Alexander, and Gramfort, Alexandre.
-\newblock Self-supervised representation learning from electroencephalography
-  signals.
-\newblock  in {\em 2019 IEEE 29th International Workshop on Machine Learning
-  for Signal Processing (MLSP)},  pp. 1--6. IEEE, 2019.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{vincent2008extracting}
-Vincent, Pascal, Larochelle, Hugo, Bengio, Yoshua, and Manzagol,
-  Pierre-Antoine.
-\newblock Extracting and composing robust features with denoising autoencoders.
-\newblock  in {\em Proceedings of the 25th international conference on Machine
-  learning},  pp. 1096--1103, 2008.
+\bibitem{weng2025self}
+Weng, Weining, Gu, Yang, Guo, Shuai, Ma, Yuan, Yang, Zhaohua, Liu, Yuchen, and
+  Chen, Yiqiang.
+\newblock Self-supervised learning for electroencephalogram: A systematic
+  survey.
+\newblock {\em ACM Computing Surveys}, 57(12):1--38, 2025.
 
 \end{LTRbibitems}
 
@@ -620,6 +647,40 @@ Jain, Yash, Tang, Chi~Ian, Min, Chulhong, Kawsar, Fahim, and Mathur, Akhil.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{hong2024crosshar}
+Hong, Zhiqing, Li, Zelong, Zhong, Shuxin, Lyu, Wenjun, Wang, Haotian, Ding, Yi,
+  He, Tian, and Zhang, Desheng.
+\newblock Crosshar: Generalizing cross-dataset human activity recognition via
+  hierarchical self-supervised pretraining.
+\newblock {\em Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies}, 8(2):1--26, 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{chen2024enhancing}
+Chen, Hui, Gouin-Vallerand, Charles, Bouchard, K{\'e}vin, Gaboury,
+  S{\'e}bastien, Couture, M{\'e}lanie, Bier, Nathalie, and Giroux, Sylvain.
+\newblock Enhancing human activity recognition in smart homes with
+  self-supervised learning and self-attention.
+\newblock {\em Sensors}, 24(3):884, 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zhan2025single}
+Zhan, Juecen.
+\newblock Single-device human activity recognition based on spatiotemporal
+  feature learning networks.
+\newblock {\em Transactions on Computational and Scientific Methods}, 5(3),
+  2025.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{taghanaki2023self}
 Taghanaki, Setareh~Rahimi, Rainbow, Michael, and Etemad, Ali.
 \newblock Self-supervised human activity recognition with localized
@@ -666,6 +727,36 @@ Anguita, Davide, Ghio, Alessandro, Oneto, Luca, Parra, Xavier, Reyes-Ortiz,
 \newblock A public domain dataset for human activity recognition using
   smartphones.
 \newblock  in {\em Esann},  vol.~3,  pp. 3--4, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hinton2018matrix}
+Hinton, Geoffrey~E, Sabour, Sara, and Frosst, Nicholas.
+\newblock Matrix capsules with em routing.
+\newblock  in {\em International conference on learning representations}, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ramu2025human}
+Ramu, Moola, Hossain, Ashraf, and Prasad, Ch~Rajendra.
+\newblock Human activity recognition using a bagging-based deep learning
+  framework with convolutional capsule networks and spiking neural networks.
+\newblock {\em International Journal of Information Technology}, 1(1):1--19,
+  2025.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{feraydounraad2025distance}
+Feraydounraad, Ebraahim, Hoseini, Kobra, and Nazerfard, Ehsan.
+\newblock Distance graph routing capsule network with vote elimination for
+  human activity recognition.
+\newblock {\em Expert Systems with Applications},  p. 128236, 2025.
 
 \end{LTRbibitems}
 

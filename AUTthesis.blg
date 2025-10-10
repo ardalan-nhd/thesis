@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AUTthesis.aux
+The style file: unsrt-fa.bst
+A level-1 auxiliary file: en-abstract.aux
+Database file #1: references.bib
+-- unsrt-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--can't use both volume and number fields in hammerla2015pd
+Warning--can't use both volume and number fields in anguita2013public
+
+Done.
+You've used 72 entries,
+            2198 wiz_defined-function locations,
+            966 strings with 20636 characters,
+and the built_in function-call counts, 22514 in all, are:
+= -- 1873
+> -- 1113
+< -- 27
++ -- 396
+- -- 324
+* -- 1546
+:= -- 3243
+add.period$ -- 229
+call.type$ -- 72
+change.case$ -- 72
+chr.to.int$ -- 0
+cite$ -- 74
+duplicate$ -- 935
+empty$ -- 1919
+format.name$ -- 324
+if$ -- 5312
+int.to.chr$ -- 0
+int.to.str$ -- 72
+missing$ -- 337
+newline$ -- 654
+num.names$ -- 72
+pop$ -- 209
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 522
+stack$ -- 0
+substring$ -- 1532
+swap$ -- 324
+text.length$ -- 27
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 2
+while$ -- 204
+width$ -- 74
+write$ -- 1021
+(There were 2 warnings)
